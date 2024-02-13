@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Qianru Zhang (Ruby)</h1>
-<h3 align="center">iOS, React fullstack developer, CS/HCI student at NYU, New York.</h3>
+# Hi 👋, I'm Qianru Zhang (Ruby)
+### iOS, React fullstack developer, CS/HCI student at NYU, New York.
 
 - 🔭 I’m currently working on **iOS mobile applications and building my own neural networks for multimedia classifications.**
 
