@@ -53,6 +53,10 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubyqianru&show_icons=true&locale=en&layout=compact" alt="rubyqianru" /></p>
+<h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rubyqianru&" alt="rubyqianru" /></p>
+![Ruby's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubyqianru&show_icons=true&theme=radical&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubyqianru&layout=compact&theme=radical)
+
+
