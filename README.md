@@ -21,35 +21,35 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,swift,html,css" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,swift,html,css" />
   </a>
 </p>
 
  <h3 align="left">Frontend Development Tools:</h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,d3,jquery,materialui,netlify,figma" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,threejs,d3,jquery,materialui,vite,p5js,netlify,webpack,figma" />
   </a>
 </p>
 
  <h3 align="left">Backend and Database:</h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,flask,mongodb,mysql,firebase,heroku" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,firebase,heroku" />
   </a>
 </p>
 
  <h3 align="left">Machine Learning:</h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
   </a>
 </p>
 
 <h3 align="left">Additional Skills:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,bootstrap,blender,babel,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,bootstrap,unity,blender,babel,arduino" />
   </a>
 </p>
 
