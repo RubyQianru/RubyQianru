@@ -5,12 +5,11 @@
 
 - 👨‍💻 **Portfolio**: [https://rubyqianru.cargo.site/](https://rubyqianru.cargo.site/)
 
+  [<img src="https://github.com/RubyQianru/RubyQianru/blob/main/chrome-capture-2024-3-1%20(2).gif" width=600 margin=20>](https://rubyqianru.cargo.site/)
+
 - 📫 **Email**: **qz2432@nyu.edu**
 
 - 📄 **LinkedIn**: [https://www.linkedin.com/in/qianru-zhang-600165182/](https://www.linkedin.com/in/qianru-zhang-600165182/)
-
-
-<img src="https://rubyqianru.cargo.site" width=600>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
