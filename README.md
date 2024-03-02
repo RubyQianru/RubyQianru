@@ -1,22 +1,16 @@
 # Hi 👋, I'm Qianru Zhang (Ruby)
 ### iOS, React fullstack developer, CS/HCI student at NYU, New York.
 
-- 🔭 I’m currently working on **iOS mobile applications and building my own neural networks for multimedia classifications.**
+- 🌱 **Coursework**: **Deep Learning, RTC (Realtime Communication), and iOS mobile applications**
 
-- 🌱 I’m currently learning **Deep Learning, RTC (Realtime Communication), and iOS mobile applications**
+- 👨‍💻 **Portfolio**: [https://rubyqianru.cargo.site/](https://rubyqianru.cargo.site/)
 
-- 👨‍💻 All of my projects are available at [https://rubyqianru.cargo.site/](https://rubyqianru.cargo.site/)
+- 📫 **Email**: **qz2432@nyu.edu**
 
-- 💬 Ask me about **Swift, React, React Three Fiber, React Native, Python**
+- 📄 **LinkedIn**: [https://www.linkedin.com/in/qianru-zhang-600165182/](https://www.linkedin.com/in/qianru-zhang-600165182/)
 
-- 📫 How to reach me **qz2432@nyu.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/qianru-zhang-600165182/](https://www.linkedin.com/in/qianru-zhang-600165182/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/ruby zhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruby zhang" height="30" width="40" /></a>
-</p>
+<img src="https://rubyqianru.cargo.site" width=600>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
