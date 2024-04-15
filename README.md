@@ -21,14 +21,14 @@
  <h3 align="left">Frontend Development Tools:</h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,threejs,d3,jquery,materialui,vite,p5js,netlify,webpack,figma" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,threejs,d3,materialui,vite,p5js,netlify,webpack,figma" />
   </a>
 </p>
 
  <h3 align="left">Backend and Database:</h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,firebase,heroku" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql,firebase,heroku" />
   </a>
 </p>
 
