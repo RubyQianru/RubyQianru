@@ -28,7 +28,7 @@
  <h3 align="left">Backend and Database:</h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql,firebase,heroku" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,mongodb,mysql,firebase,heroku" />
   </a>
 </p>
 
