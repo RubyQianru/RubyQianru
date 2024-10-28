@@ -28,21 +28,21 @@
  <h3 align="left">Backend and Database:</h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,mongodb,mysql,firebase,heroku" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,postgresql,mongodb,mysql,firebase,heroku" />
   </a>
 </p>
 
  <h3 align="left">Machine Learning:</h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas" />
   </a>
 </p>
 
 <h3 align="left">Additional Skills:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,bootstrap,unity,blender,babel,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,jenkins,bootstrap,unity,blender,babel,arduino" />
   </a>
 </p>
 
