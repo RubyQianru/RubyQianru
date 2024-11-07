@@ -32,10 +32,10 @@
   </a>
 </p>
 
- <h3 align="left">Machine Learning:</h3>
+ <h3 align="left">Data & Machine Learning:</h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch, np,pandas" />
   </a>
 </p>
 
